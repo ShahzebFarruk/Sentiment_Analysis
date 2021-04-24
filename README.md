@@ -72,7 +72,7 @@ The given dataset is in the form of Labeled data, hence supervised learning is o
    remining only Treebank Tokenizer was used along with WordNetlemmatizer.
 
 ### B) Splitting Dataset/Corpus: ###
-*      The dataset/corpus is split into 66.6% of Training data and 33.3% of test data. Moreover, the data is shuffledeverytime the code is re-run such that different instances 
+* The dataset/corpus is split into 66.6% of Training data and 33.3% of test data. Moreover, the data is shuffledeverytime the code is re-run such that different instances 
        are shuffled between test and train datasets.
 
 ### C) Feature Engineering: ###
