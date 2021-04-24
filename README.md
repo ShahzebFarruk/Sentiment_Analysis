@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61950234/115967868-060e0880-a503-11eb-828e-4057f8bc2986.png?raw=true" alt="Sentiment Analysis Outputs"/>
 </p>
+ 
 
 The repo contains two code files containing same code, one is named as [sentiment_analysis_solution_jupyternotebook.ipynb](https://github.com/ShahzebFarruk/Sentiment_Analysis/blob/master/sentiment_analysis_solution_jupyternotebook.ipynb) if you want to run on jupyter Notebook please use this. Or else there's a python file named as [sentiment_analysis_solution_code.py](https://github.com/ShahzebFarruk/Sentiment_Analysis/blob/master/sentiment_analysis_solution_code.py) please run it using any IDE which has all the libraries installed in it. I used Anaconda with Spyder.
 
@@ -74,7 +75,7 @@ The given dataset is in the form of Labeled data, hence supervised learning is o
    remining only Treebank Tokenizer was used along with WordNetlemmatizer.
 
 ### B) Splitting Dataset/Corpus: ###
-* The dataset/corpus is split into 66.6% of Training data and 33.3% of test data. Moreover, the data is shuffledeverytime the code is re-run such that different instances 
+* The dataset/corpus is split into 66.6% of Training data and 33.3% of test data. Moreover, the data is shuffled everytime the code is re-run such that different instances 
        are shuffled between test and train datasets.
 
 ### C) Feature Engineering: ###
