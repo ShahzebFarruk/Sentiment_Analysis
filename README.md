@@ -86,7 +86,7 @@ The given dataset is in the form of Labeled data, hence supervised learning is o
 
 * MultiNomial Naive Bayers was constructed from sklearn.model_selection library and Random Forest Classifier was constructed from sklearn.ensemble.
 
-### E) Evaluation:###
+### E) Evaluation: ###
 
 * The accuracy_score, F1-scores are printed into the console. As well as confusion matrix is also calculated.
 
