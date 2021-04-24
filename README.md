@@ -9,12 +9,12 @@ The repo contains two code files containing same code, one is named as sentiment
    * numpy
 
 
-### Note:###
+### Note:
   The code was run and executed in both Jupyter notebook as well as Spyder IDEs. It is assumed that the user has installed anaconda from https://www.anaconda.com/products/individual. Open the anaconda IDE, then click on install for jupyternotebook or spyder by clicking at the install button if not installed. If already installed click 'launch'.
 
 If anaconda is not installed follow the below Environment setting steps:
 
-### Envirnoment Setting Up steps:###
+### Envirnoment Setting Up steps:
    1)Install anaconda IDE if not already installed. Go to website https://www.anaconda.com/products/individual and install the anaconda IDE.
    
    2)install python latest version
@@ -35,7 +35,7 @@ then NLTK downloader pop-up will show on screen select all the install all nltk 
 
    6) Load the code sentiment_analysis_solution_code.py file. And click on run button. Results will be displayed in Console.
 
-### For running code on Jupyter Notebook:###
+### For running code on Jupyter Notebook:
 
    4) Open Jupyter notebook from anaconda. 
    
@@ -71,7 +71,7 @@ The given dataset is in the form of Labeled data, hence supervised learning is o
    only tried to do implement the Naive Bayers Classifier in CBOW for 3 tokenizers. And for 
    remining only Treebank Tokenizer was used along with WordNetlemmatizer.
 
-### B) Splitting Dataset/Corpus:###
+### B) Splitting Dataset/Corpus: ###
 *      The dataset/corpus is split into 66.6% of Training data and 33.3% of test data. Moreover, the data is shuffledeverytime the code is re-run such that different instances 
        are shuffled between test and train datasets.
 
@@ -91,7 +91,7 @@ The given dataset is in the form of Labeled data, hence supervised learning is o
 * The accuracy_score, F1-scores are printed into the console. As well as confusion matrix is also calculated.
 
 ### Who do I talk to? ###
-### Details###
+### Details ###
 * Created on Wed Dec 28 19:06:18 2020
 * @author: shahzeb
 * IDE: Spyder(Python3.8)
