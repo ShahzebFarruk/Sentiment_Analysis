@@ -1,5 +1,7 @@
-<p align="center">
 ![image](https://user-images.githubusercontent.com/61950234/115967868-060e0880-a503-11eb-828e-4057f8bc2986.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61950234/115967868-060e0880-a503-11eb-828e-4057f8bc2986.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 The repo contains two code files containing same code, one is named as sentiment_analysis_solution_jupyternotebook.ipynb if you want to run on jupyter Notebook please use this. Or else there's a python file named as sentiment_analysis_solution_code.py please run it using any IDE which has all the libraries installed in it. I used Anaconda with Spyder.
