@@ -100,4 +100,4 @@ The given dataset is in the form of Labeled data, hence supervised learning is o
 * sshah184@uottawa.ca
 
 
-### Last but not the least looking forward to working at Spreedix for ChatBot Project. Thank you!
+### Last but not the least if you liked my work looking forward to contribute to NLP you can on [Knowledge Graph Project](https://github.com/ShahzebFarruk/Knowledge-graph). Thank you!
